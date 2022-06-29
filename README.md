@@ -6,7 +6,7 @@ In index.js filse can find points: 2/3/4/5/6 resolved.
 
 # Author
 Matias Canzani
-matiascanzani@gmail.com
+email: matiascanzani@gmail.com
 github: MatiCanzani
 
 
