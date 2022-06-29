@@ -1,0 +1,21 @@
+$height: 100vh;
+$bkg-grey: #f9f9f9;
+$color-primary: #403c4c;
+$color-violet: #4B2BCF;
+$color-white: #ffffff;
+$color-orange:  #ff7e0a;
+$color-orange-hover:  #ff5c0a;
+$color-lavender: #acaabd;
+$Karla: 'Karla', sans-serif;
+$Lato: 'Lato', sans-serif;
+
+@mixin full-height {
+    height: $height;
+  }
+
+  @mixin font-size{
+    font-size: 1rem;
+    @media screen and (min-width: 750px) {
+      font-size: 1.1rem;
+    }
+  }
